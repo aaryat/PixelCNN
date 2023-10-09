@@ -29,7 +29,7 @@ To get started with using this PixelCNN implementation, follow these steps:
 4. Experiment with different model configurations, datasets, and hyperparameters to see how they affect image generation.
 
 **References:**
-
+- [PixelCNN using Keras](https://keras.io/examples/generative/pixelcnn/)
 - [Pixel Recurrent Neural Networks (arXiv)](https://arxiv.org/abs/1601.06759)
 - [Conditional Image Generation with PixelCNN Decoders (ICML)](http://proceedings.mlr.press/v70/oord17a/oord17a.pdf)
 
